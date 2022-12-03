@@ -1,0 +1,15 @@
+.creative {
+  transform: translateX(-100%);
+}
+.developer {
+  transform: translateX(100%);
+}
+.header-text-class {
+  opacity: 0;
+}
+.odd-no-project {
+  transform: translateX(-100%);
+}
+.even-no-project {
+  transform: translateX(100%);
+}
